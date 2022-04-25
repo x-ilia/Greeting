@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, modern software. In my free time I do sports and watch movies
 - 🌱 Now I am actively studying Python programming
 - 📫 How to reach me:
-- **mail --> iiliukhin@mail.com**
+- **mail --> iiliukhin@gmail.com**
 - **telegram --> @ilia_pringless**
 
 <!---
