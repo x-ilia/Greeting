@@ -3,7 +3,7 @@
 - 🌱 Now I am actively studying Python programming
 - 📫 How to reach me:
 - **mail --> iiliukhin@gmail.com**
-- **telegram --> @ilia_pringless**
+- **telegram --> @mad_nomadic**
 
 <!---
 Ilia-Pringless/Ilia-Pringless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
