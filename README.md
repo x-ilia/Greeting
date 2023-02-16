@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ilia-Pringless
-- 👀 I’m interested in technology, modern software. In my free time I do sports and watch movies
-- 🌱 Now I am actively studying Python programming
+- 👋 Hi, I'm @Ilia-Pringless
+- 👀 I'm interested in technology, modern software. In my free time I do sports and watch movies
+- 🌱 I'm a python programmer and am actively developing my skill
 - 📫 How to reach me:
 - **mail --> iiliukhin@gmail.com**
 - **telegram --> @mad_nomadic**
