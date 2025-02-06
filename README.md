@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ilia
-- 👀 I'm interested in technology, modern software. In my free time I do sports and watch movies
-- 🌱 I'm a python programmer and am actively developing my skill
+- 👀 I'm interested in technology, modern software. In my free time I work out, read Cci-Fi, travel sometimes
+- 🌱 I'm a python programmer and am actively developing my skills
 - 📫 How to reach me:
 - **mail --> iiliukhin@gmail.com**
 - **telegram --> @mad_nomadic**
