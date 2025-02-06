@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Ilia-Pringless
+- 👋 Hi, I'm Ilia
 - 👀 I'm interested in technology, modern software. In my free time I do sports and watch movies
 - 🌱 I'm a python programmer and am actively developing my skill
 - 📫 How to reach me:
