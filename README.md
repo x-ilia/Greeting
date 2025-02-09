@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Ilia
-- 👀 I'm interested in technology, modern software. In my free time I work out, read Cci-Fi, travel sometimes
+- 👀 I'm interested in technology, modern software. In my free time I work out, read Sci-Fi, travel sometimes
 - 🌱 I'm a python programmer and am actively developing my skills
 - 📫 How to reach me:
 - **mail --> iiliukhin@gmail.com**
